@@ -4,16 +4,16 @@ https://github.com/JMMB8/JMMB8.github.io
 
 Repositorios/Fork compañeros:
 
-Oriana Gómez
+Paz Nindencita
 
-Repositorio:https://github.com/geoquimica-gomez/geoquimica-gomez.github.io
+Repositorio:https://github.com/Nindecita/Prueba-creando-portafolio
 
-Fork:[ https:https://github.com/JMMB8/geoquimica-gomez.github.io
+Fork 1: https://github.com/JMMB8/Prueba-creando-portafolio
 
-Luis subiabre
+Isabel Urrieta
 
-Repositorio:https://github.com/LuisSubiabre/luissubiabre.github.io
+Repositorio:https://github.com/Isabeland8/isabeland8.github.io
 
-Fork:[ https:https://github.com/JMMB8/luissubiabre.github.io
+Fork 2: https:https://github.com/JMMB8/isabeland8.github.io
 
 
